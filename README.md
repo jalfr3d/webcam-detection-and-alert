@@ -48,3 +48,8 @@ Before using this script, ensure you have the following libraries and configurat
 - It's recommended to run the script in a headless environment for practical security applications.
 
 That's it! Use this script to create a simple yet effective motion detection and email alert system to enhance your home security.
+
+## License
+
+This project is licensed under the MIT License. You are free to use and modify the code for your own purposes.
+
